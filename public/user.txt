@@ -1,0 +1,6 @@
+admin|System Admin|admin@elnusa.co.id|admin123
+user1|User 1 |user1@elnusa.co.id|user1pass
+aans|Rupiah|admin@admin|sa
+aansss|Mochammad Annafia Oktafian|bonekberdasi@gmail.com|juli23
+aans21|annafia|admin@admin|september09
+annafia28|Mochammad Annafia Oktafian|m.annafia28@gmail.com|juli23
